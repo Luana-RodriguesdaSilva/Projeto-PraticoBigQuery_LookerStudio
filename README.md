@@ -48,7 +48,16 @@ A fonte de dados foi uma base de arquivo no formato CSV (O arquivo se encontra n
 ## Estrutura do projeto
 - **Bigquery/Queries/**: Contém as consultas SQL organizadas em arquivos separados.
   - `Consulta_total_estupros_latrocinios.sql`: Consulta para obter os números totais de estupros e latrocínios ao longo dos anos de 2019 e 2020.
-  - `total_de_lesoes.sql`: Consulta para contar o total de cada crime de lesão: (Lesão Corporal seguida de morte, Lesão Corporal Dolosa, Lesão Corporal Culposa por acidente de trânsito, Lesão Corporal Culposa) ao longo dos anos de 2019 e 2020.
-  - `total_de_lesoes.sql`: Consulta para contar o total de cada crime de lesão: (Lesão Corporal seguida de morte, Lesão Corporal Dolosa, Lesão Corporal Culposa por acidente de trânsito, Lesão Corporal Culposa) ao longo dos anos de 2019 e 2020.
+  - `total_de_lesoes.sql`: Consulta para contar o total de cada crime de lesão: (Lesão Corporal seguida de morte, Lesão Corporal Dolosa, Lesão Corporal Culposa por acidente de trânsito e Lesão Corporal Culposa) ao longo dos anos de 2019 e 2020.
+  - `total_homicidios_anos.sql`: Consulta para contar o total de cada crime de Homicídio: (Homicídio doloso por acidente de trânsito, Homicídio Culposo por acidente de Trânsito e Homicídio Culposo) o total de cada homicídio separado por ano 2019/2020.
+
+<br>
+<br>
+
+## Relatórios
+
+Os relatórios gerados estão disponíveis no Looker Studio e são baseados nas consultas SQL executadas no BigQuery.
+
+[Link para o relatório do Looker Studio](https://lookerstudio.google.com/reporting/d3025608-bdbc-4748-8b6b-910da04963c2)
   
 
