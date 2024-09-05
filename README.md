@@ -47,7 +47,7 @@ A fonte de dados foi uma base de arquivo no formato CSV (O arquivo se encontra n
 
 ## Estrutura do projeto
 - **Bigquery/Queries/**: Contém as consultas SQL organizadas em arquivos separados.
-  - `top_5_crimes.sql`: Consulta para obter os 5 maiores crimes por número de ocorrências.
-  - `vehicle_thefts_2020.sql`: Consulta para contar furtos de veículos em 2020.
+  - `Consulta_total_estupros_latrocinios.sql`: Consulta para obter os números totais de estupros e latrocínios ao longo dos anos de 2019 e 2020.
+  - ``: Consulta para contar furtos de veículos em 2020.
   
 
