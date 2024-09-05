@@ -48,6 +48,7 @@ A fonte de dados foi uma base de arquivo no formato CSV (O arquivo se encontra n
 ## Estrutura do projeto
 - **Bigquery/Queries/**: Contém as consultas SQL organizadas em arquivos separados.
   - `Consulta_total_estupros_latrocinios.sql`: Consulta para obter os números totais de estupros e latrocínios ao longo dos anos de 2019 e 2020.
-  - ``: Consulta para contar furtos de veículos em 2020.
+  - `total_de_lesoes.sql`: Consulta para contar o total de cada crime de lesão: (Lesão Corporal seguida de morte, Lesão Corporal Dolosa, Lesão Corporal Culposa por acidente de trânsito, Lesão Corporal Culposa) ao longo dos anos de 2019 e 2020.
+  - `total_de_lesoes.sql`: Consulta para contar o total de cada crime de lesão: (Lesão Corporal seguida de morte, Lesão Corporal Dolosa, Lesão Corporal Culposa por acidente de trânsito, Lesão Corporal Culposa) ao longo dos anos de 2019 e 2020.
   
 
