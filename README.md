@@ -8,7 +8,7 @@ O objetivo deste projeto é analisar dados de crimes ocorridos em São Paulo ent
 <br>
 <br>
 
-## Fonte de Dados
+## Fonte de dados
 
 A fonte de dados foi uma base de arquivo no formato CSV (O arquivo se encontra na pasta do projeto) que foi disponibilizada pelo programa Desenvolve do grupo O Boticário em parceria com a Alura para fins estudantis.
 
@@ -64,7 +64,7 @@ Os relatórios gerados estão disponíveis no Looker Studio e são baseados nas 
 <br>
 <br>
 
-## Como Executar
+## Como executar
 
 1. Clone o repositório.
 2. Suba os arquivos SQL no BigQuery e execute conforme necessário.
@@ -158,7 +158,7 @@ E como insight foi observado que os homicídios culposos em trânsito diminuíra
 <br>
 
 
-## Considerações Finais
+## Considerações finais
 
 Este projeto demonstrou como o uso de consultas SQL no BigQuery combinado com visualizações no Looker Studio pode oferecer insights sobre a criminalidade ao longo do tempo. As análises ajudam a compreender padrões de comportamento e possibilitam a tomada de decisões informadas, seja por autoridades de segurança pública ou empresas interessadas em melhorar suas estratégias de segurança.
 
