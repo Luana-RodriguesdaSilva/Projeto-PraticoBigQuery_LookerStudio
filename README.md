@@ -168,7 +168,7 @@ Além disso, a criação de relatórios no Looker Studio facilitou a comunicaç�
 
 Como próximo passo, futuras análises podem incluir a correlação de crimes com variáveis socioeconômicas, bem como o uso de aprendizado de máquina para prever tendências criminosas em áreas específicas.
 
-Este projeto foi uma grande oportunidade de colocar em prática habilidades de análise de dados e visualização, e destaca a importância de ferramentas poderosas como o BigQuery e o Looker Studio no processo de tomada de decisão baseada em dados.
+Este projeto foi uma grande oportunidade de colocar em prática habilidades de análise de dados e visualização, e destaca a importância de ferramentas como o BigQuery e o Looker Studio no processo de tomada de decisão baseada em dados.
 
 
 
