@@ -84,9 +84,9 @@ FROM
    `crimes_sp_2019_2020.crimes_sp`;
 ```
 
-Para a visualização no Looker Studio coloquei essas informações no ínicio do relatório: 
+Para a visualização no Looker Studio coloquei essas informações no ínicio do relatório como cartões de visão geral: 
 
-![Cartões com osnúmeros de latrocinios e estupros](https://github.com/user-attachments/assets/433421c8-61b4-4b3e-a870-efc0204e38f6)
+![Cartões de visão geral com os números de latrocinios e estupros](https://github.com/user-attachments/assets/433421c8-61b4-4b3e-a870-efc0204e38f6)
 
 <br>
 <br>
