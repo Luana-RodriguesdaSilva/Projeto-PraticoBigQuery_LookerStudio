@@ -148,9 +148,10 @@ No Looker Studio para ilustrar essa consulta optei por uma tabela com mapa de ca
 
 ![Tabela de mapa de calor](https://github.com/user-attachments/assets/a58d5137-adcd-48bb-8057-79abf1f51265)
 
-E também como continuação para a mesma consulta inseri um gráfico de barras empilhadas para trazer uma melhor visualização do aumento ou queda dos números de homicídios de um ano para o outro.
+E também como continuação para a mesma consulta inseri um gráfico de barras empilhadas para trazer uma melhor visualização do aumento ou queda dos números de homicídios entre o ano de 2019 e 2020.
 
-![Gráfico de barras empilhadas (https://github.com/user-attachments/assets/7e279ecf-9e29-4b46-b0d7-214216e58787)
+![Gráfico de barras empilh](https://github.com/user-attachments/assets/7b9d70fb-4792-4afc-ad1d-cdab6e57127b)
+
 
 
 E como insight foi observado que os homicídios culposos em trânsito diminuíram de 421 casos em 2019 para 393 casos em 2020, e os homicídios culposos diminuíram de 24 casos em 2019 para 22 casos em 2020, enquanto os homicídios dolosos aumentaram de 3 casos em 2019 para 7 casos em 2020.
