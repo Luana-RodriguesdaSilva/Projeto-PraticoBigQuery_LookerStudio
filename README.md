@@ -34,7 +34,7 @@ A fonte de dados foi uma base de arquivo no formato CSV (O arquivo se encontra n
 
 ⊛ Análise Exploratória de Dados : Usada para explorar o conjunto de dados de forma a identificar padrões, correlações e outliers. Isso foi importante para entender a distribuição dos crimes e destacar pontos críticos, utilizando SQL para as consultas.
 
-⊛ Visualização de Dados: Aplicação de princípios de design de visualização para construir o dashboard no Looker Studio. Com cartões de visão geral, tabela, gráfico de coluna, tabela com mapa de calor e gráfico de linhas foram utilizados para comunicar insights de forma clara e acessível aos usuários.
+⊛ Visualização de Dados: Aplicação de princípios de design de visualização para construir o dashboard no Looker Studio. Com cartões de visão geral, tabela, gráfico de coluna, tabela com mapa de calor e gráfico de barras empilhadas, foram utilizados para comunicar insights de forma clara e acessível aos usuários.
 
 ⊛ Controle de Versão (VS Code / GitHub): Implementado para garantir que as consultas SQL e documentos do projeto estivessem sempre atualizados, documentados e facilmente recuperáveis. O GitHub foi utilizado para gerenciar versões do código.
 
@@ -148,9 +148,9 @@ No Looker Studio para ilustrar essa consulta optei por uma tabela com mapa de ca
 
 ![Tabela de mapa de calor](https://github.com/user-attachments/assets/a58d5137-adcd-48bb-8057-79abf1f51265)
 
-E também como continuação para a mesma consulta inseri um gráfico de linhas para trazer uma melhor visualização do aumento ou queda de homicídios de um ano para o outro.
+E também como continuação para a mesma consulta inseri um gráfico de barras empilhadas para trazer uma melhor visualização do aumento ou queda dos números de homicídios de um ano para o outro.
 
-![Gráfico de linhas](https://github.com/user-attachments/assets/d3110789-e661-4e02-a6ee-b8c667d7d594)
+![Gráfico de barras empilhadas](https://github.com/user-attachments/assets/89bef4ff-1bdb-4f14-99d5-7f7546fc416a)
 
 E como insight foi observado que os homicídios culposos em trânsito diminuíram de 421 casos em 2019 para 393 casos em 2020, e os homicídios culposos diminuíram de 24 casos em 2019 para 22 casos em 2020, enquanto os homicídios dolosos aumentaram de 3 casos em 2019 para 7 casos em 2020.
 
