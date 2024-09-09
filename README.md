@@ -1,4 +1,4 @@
-# **3º Projeto prático- Desenvolve 2024 - BigQuery-Looker Studio**
+# **3º Projeto prático - Desenvolve 2024 - BigQuery-Looker Studio**
 <br>
 <br>
 
